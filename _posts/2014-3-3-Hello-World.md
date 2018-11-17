@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Projeto Petrobras Fibra
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Participei do desenvolvimento deste projeto durante meu período de estágio no lactec, resolvendo bugs e criando novas features deste projeto.
+## Screenshots
+![Image](https://lh3.googleusercontent.com/239qWpKJ2wWdTwNg8qZfiarxtfgStqzQ_IsoszP_tww0AlDgO8MmgyqPYCOh-n773T2SLbnk_TZZ_fHpmJj0VABAnXcbj_yI_9XmKqwg4Lakd8XJUvWU9MNfWblEmqWzh2AQReJBL7QvJmYRMF1EbJ7JICK2-9ZeNa7ob2ZIUwt9NE4CVT1mwlmH_gGaj4IJANcOpv1BMDdtkbQ-HmuXLAdfewATdg6lqOTIO4j_O9azTIzZI_S63MpHfIMp14LEBiql0chdJgmpzdraAEavrppeVD2LTtgGtuiOEWKQYmXLMukiyA72EqcFhIL9F02TkDRyVnZVdxXMMim9OMRMXgVb8xZDNPkclDpXnj4N0ls-x9qQs4Jl0QyQ8vYNf-7DOkB6ue8TC-Zu6EGN4ibY0JGcPSuhkC7_lfaGS4fPbyf5xgQ-BnMkBg2X73mK1Rcgqv7xcUmKCJxeTZuk84KtkMpU45omUOVPmddsWHQn29YobqUZaXXDp8YzdHCcJdl_P5nM518PkEFWkt-re0lTBV6yQ5mv3intGEBOid-Jl5mnlu73TuVSiATkAGSBCApaWUvN99ljOVXAze9bteX3hFUvovWJr4ZSlHhnCbE3smHQcpsDt_zagYoomcbKh-E5mo9SwiL-zk8eJ3mMLfmn1JHlhnmZUVnXh3HwT_9gA852VIkJ_byQthk4cFgrGhqQimxUt9Kvst-bvZ58LQ=w703-h920-no)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
