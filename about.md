@@ -4,15 +4,26 @@ title: About
 permalink: /about/
 ---
 
-## Portfólio Rodrigo França
 
 Possuo experiência no desenvolvimento de aplicações mobile utilizando android e Xamarin.
 
 # Formação Acadêmica
-- Universidade Tecnológica Federal Do Paraná  | Câmpus Cornélio Procópio | Curso: Engenharia da Computação | Ano: 2014 - 2016 
+- Universidade Tecnológica Federal Do Paraná  | Câmpus Cornélio Procópio 
+Curso: Engenharia da Computação | Ano: 2014 - 2016 
 Do primeiro ao quarto período
-- Pontifícia Universidade Católica Federal do Paraná | Câmpus Curitiba | Curso: Engenharia da Computação | Ano : 2017 - Atual
+- Pontifícia Universidade Católica Federal do Paraná | Câmpus Curitiba 
+Curso: Engenharia da Computação | Ano : 2017 - Atual
 Atualmente no oitavo período
+
+# Competências
+- C# Intermediário
+- Xamarin Básico
+- Java Básico
+- C Intermediário
+- SQL Básico
+- Pacote Office Intermediário
+- UML Básico
+- MATLAB Básico
 
 # Experiência Profissional
 - Estágiario de Business Inteligence na Madeira Madeira
@@ -25,6 +36,8 @@ Atividades: Auxiliar no desenvolvimneto de software e aplicativos, suporte aos c
 # Cursos Complementares
 - Inglês Pré-Avançado | PUC Idiomas
 
+# Idiomas
+- Inglês Pré-Avançado
 
 ### Contato
 
