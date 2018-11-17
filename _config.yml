@@ -9,7 +9,7 @@ name: Rodrigo França Scoropad
 description: Estagiário de desenvolvimento de aplicativos mobile no LACTEC
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://lh3.googleusercontent.com/rGI066olz2wzA80PqbHYltMA45oC7f6-ykmPaOW_Bt_00je86UxHr-AxZ4Dfgh88JUMDR4eInPEYXBPDIXmKKBniyCy0qzHaqxHpyxtmcuhSXyb3_XVxIFYDbkunjKGGND99TA09Vk5umnRlUOmhqn31YYHmNLm1nwX6wIK5D-FncGl8p9MEE5eKnChEGjw7l_m543ZeIo0x0LIOA7DRbCL6Vx2NL43Ave5BTcx9JiUistspZBqgcRKXBcrBL3s52qvBK0lkNVxkFQmxF12If1BKByiLalD1WpFzWRVShJFVtFCK2Mr8jn3hONd3qRgpKwGXergnWx2JFOYBdnLNpsT54kpA1Tu7izD_a-g-p_qc6ZjgvzDkTfsMiqRRitjFdPbzKp7LJskH-QYsfxkyr03L2PuHCMo0ShjFpAppiyjIFUa4BPDzxhz9YlJnV9_h7txsDbECR5UJzk41rMmYGvz5hhy8mbGtCubyaZ119c2zXflxLuS7pG7JotBU1HSnDU1ny4EuUQsPh81kUHfUbc_r-ZA7W2Vrgw7ftV0YeQ4Wsvz69gHoaFUUkdvi8hOhtyL0T8OM_OGfyX2RPFlELE__34dxgBRMYWEEDCX1Q2_oAw0GSpK35mhlWoHppTP_jXvp_4wmedRtcY-y0fT7otgetnQaDFofux7FyJvT7LKl-mpM8RZvSdO83pCEiDlAcVnFh5etRRaxcPSvww=w960-h640-no
+avatar: https://lh3.googleusercontent.com/bgr-mapMVqzwn03ncJS4Nyoqk262Kq7O3BxXe8gxugF3AIOp_U31kJiapANdyLjaVLREWz9VWhNsCZ2aGrUvSE0np9rEc26frck7Ag1YTCKJOp9TSQuCuAc1ybIHTMclraE7q3-_r4M56niph0JEVWp2D9XtJsGStRqLaPmbrz1g3SkotFn4paoSobQQCKr7aXIKhgnEebc9bhCRdHJUHMeUW7rbV-UToNNcMcxpaDj208aXK0RZsVqjN2HlS6QPsX7HA1Zj76aUIaCyjO3Mq-ygXAZoilkSv7s9vII3HdIa0nltW2BqO8n7MFPmxzyynNp6oaYShFblBEE9zsiYYHnSTIipGCJPjSt0N9txPmF155ZWc5UM8pcoKjWD-oOFsOdFBaL9LT8sE21rAHhAKjaJ-tykeaFh1FlDp3sQLJ7MLpViFk5Hu_TMhjb_cT3OuPtaNyGK0HVrU-jl9UkI-gytyXbpd3nGC2Ddv9CBvTwl-G6-0ZWfNFk8dj3srVoqryVTWQmJfzimegH918hZFTxmzf9GfRCKEyr1P2TFBUh6GshNJZ4HM3Ug-AM9dlCvxxVDguiyMLJzCzU4eHNap045rADm_FqpVka3Ym89-jr5bpgJkRsSRUYXAcRLEQI2b7xZySoBXidqujTs7JqUzyhVgm0SOCGpnMJYeauJbRe8Kg8KdKsJtYmCjr9LJNcs6ctGxxiw4l_LMZRgSA=w2464-h1642-no
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin: https://www.linkedin.com/in/rodrigo-fran%C3%A7a-4372a6153/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
