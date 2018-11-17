@@ -2,7 +2,6 @@
 layout: post
 title: Projeto exemplo cadastro de clientes
 ---
-
 Este projeto teste é voltado ao desenvolvimento e aprendizado baseado em desafios utilizando o Xamarin Forms durante o estágio no LACTEC.
 
 #Funções do APP
@@ -10,7 +9,7 @@ Este projeto teste é voltado ao desenvolvimento e aprendizado baseado em desafi
 - Importação e exportação de arquivos de cliente em formato JSON
 - Integração com servidor criado com o CouchDB para salvar os dados da aplicação
 
-Link para este repositório:(Link)[https://github.com/rodrigo-fs/ClientRegisterUsingXamarin]
+Link para este repositório:[Link](https://github.com/rodrigo-fs/ClientRegisterUsingXamarin)
 
 ## Screenshots
 ![Image](https://lh3.googleusercontent.com/ZPtS8TOVpKKFueogVek9mQD0Wze139oMaH_H35lhvUM8MlzK1HOARlDDkRiwqK6a37k-D37OBnxbJ8gKheB9FKqs8LrRx4m0RXKhCJEW7Z7JFof4Q6yuODtQaMdQPdJlw6Sfb9YyLjCuhoZRchs1ltzoCbpqKISG4KyHvFpX8dGeUNh9_dyA6g1313asRFhD4sERTDGJv828UZCtmaz5lAMXttMYi7t8zg_03jb8Xh6DvbUEEqOd0xyfRIplT0HsLRSMalAeExLk8jqTOpFacYAXchOTN0eyldO1KDF4-QJKrZOVWe0DJNgpuD-RShkDwu30OLCP02rwf4rAhQbrW-u6LwrCDE2GMmnQdV_QErWfUdE4RxOCCOIsjOqOF8fQRZjfl2r8h0byHYnTb3yBAzSvVdO2Fx7gH1K5bB7owWuCxiI12Q4fQ6uCfUCaLSEtxKm9VmNqAZtsZGGccQyk57TNtSqZIMTLTlQVESKToitSH_l_QzP0UiaKz5fyGhXWC9Xldj9IKoxV1vvo5aPyYYGn3mhnI0IDQ8JmF3n7zrpeBCutVi_mhYzNzkT-RnB3IKnTp7NCmtiAFsE8X5gzLEsgdsH3C5u0C9nUDnolbTi0Cs48C4zBJLtr2JvJctqQ7KPhqm0fTRaRh0MpyPaMypwim1MUxx92sz1nuaVBPgIpP7atp1p79_vLQVns0Ybv4dJCLq9nYc7ZUbJfxg=w707-h920-no)
