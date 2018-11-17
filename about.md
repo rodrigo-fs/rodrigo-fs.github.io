@@ -4,12 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Portfólio Rodrigo França
 
-### More Information
+Possuo experiência no desenvolvimento de aplicações mobile utilizando android e Xamarin.
 
-A place to include any other types of information that you'd like to include about yourself.
+# Formação Acadêmica
+- Universidade Tecnológica Federal Do Paraná  | Câmpus Cornélio Procópio | Curso: Engenharia da Computação | Ano: 2014 - 2016 
+Do primeiro ao quarto período
+- Pontifícia Universidade Católica Federal do Paraná | Câmpus Curitiba | Curso: Engenharia da Computação | Ano : 2017 - Atual
+Atualmente no oitavo período
 
-### Contact me
+# Experiência Profissional
+- Estágiario de Business Inteligence na Madeira Madeira
+Período: 2 meses Ano: 2018
+Atividades: Acompanhar e levantar requisitos de projetos logísticos relacionados a área de transporte. Auxiliar na construção de consultas em banco de dados relacional. E demais atividades da área de BI.
+- Estagiário de Tecnologia da Informação no Instituto de Tecnologia para o Desenvolvimento - LACTEC
+Período: Atual(6 meses) Ano: 2018
+Atividades: Auxiliar no desenvolvimneto de software e aplicativos, suporte aos clientes e demais atividades relacionadas a área de TI.
 
-[email@domain.com](mailto:email@domain.com)
+# Cursos Complementares
+- Inglês Pré-Avançado | PUC Idiomas
+
+
+### Contato
+
+[rodrigoo_fs@hotmail.com](mailto:rodrigoo_fs@hotmail.com)
