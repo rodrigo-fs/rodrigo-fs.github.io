@@ -4,7 +4,7 @@ title: Projeto exemplo cadastro de clientes
 ---
 Este projeto teste é voltado ao desenvolvimento e aprendizado baseado em desafios utilizando o Xamarin Forms durante o estágio no LACTEC.
 
-#Funções do APP
+## Funções do APP
 - Cadastro de clientes em banco de dados local
 - Importação e exportação de arquivos de cliente em formato JSON
 - Integração com servidor criado com o CouchDB para salvar os dados da aplicação
